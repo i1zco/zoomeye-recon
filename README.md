@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Create .env file:
 
 ```
-ZOOMEYE_API_KEY=your_api_key_here
+ZOOMEYE=your_api_key_here
 ```
 
 Run:
