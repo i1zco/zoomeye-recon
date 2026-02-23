@@ -28,7 +28,7 @@ ZOOMEYE=your_api_key_here
 Run:
 
 ```bash
-python zoom.py example.com
+python zoom.py --domain example.com
 ```
 
 ## Disclaimer
